@@ -22,9 +22,9 @@ event.body.indexOf("Assalamualaikum")==0 ||
 event.body.indexOf("assalamualaikum")==0 ||
 event.body.indexOf("আসসালামু আলাইকুম")==0 ||
 event.body.indexOf("ASSALAMUALAIKUM")==0 ||
-event.body.indexOf("salam")==0 ||
-event.body.indexOf("সালাম")==0 ||
-event.body.indexOf("আসসালামু")==0) {
+event.body.indexOf("assalamualaikum")==0 ||
+event.body.indexOf("আসসালামুআলাইকুম")==0 ||
+event.body.indexOf("সালামুয়ালাইকুম")==0) {
     const axios = global.nodemodule["axios"];
 const request = global.nodemodule["request"];
 const fs = global.nodemodule["fs-extra"];
