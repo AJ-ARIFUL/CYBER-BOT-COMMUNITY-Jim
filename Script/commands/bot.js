@@ -56,7 +56,7 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("~ তোমার বা* উঠে নাই নাকি তোমার?? 🤖", threadID);
    };
 
-  if ((event.body.toLowerCase() == "জিম") || (event.body.toLowerCase() == "জীম") || (event.body.toLowerCase() == "jim") || (event.body.toLowerCase() == "উল্লাস")) {
+  if ((event.body.toLowerCase() == "জিম") || (event.body.toLowerCase() == "জীম") || (event.body.toLowerCase() == "jim") || (event.body.toLowerCase() == "Jim")) {
      return api.sendMessage("উনি এখন কাজে বিজি আছে কি বলবেন আমাকে বলতে পারেন..!😘",threadID);
 
        
@@ -66,8 +66,8 @@ module.exports.handleEvent = async function({ api, event, args, Threads, Users }
      return api.sendMessage("‎[𝐎𝐖𝐍𝐄𝐑:☞ JIM ッ ☜\n𝚈𝚘𝚞 𝙲𝚊𝚗 𝙲𝚊𝚕𝚕 𝙷𝚒𝚖 jim.\n𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝 :- https://www.facebook.com/share/14XzeYRFDRc/\nতার সাতে যোগা যোগ করবেন WhatsApp :- +8801320630383", threadID);
    };
 
-   if ((event.body.toLowerCase() == "Tor boss ke") || (event.body.toLowerCase() == "jsksk ")) {
-     return api.sendMessage("My Creator:ULLASH ❤️ হাই আমি মেছেন্জার ROBOT  আামার বস উল্লাস আমাকে বানিয়েছেন আপনাদের কে হাসানোর জন্য আমি চাই আপনারা সব সময় হাসি খুশি থাকেন", threadID);
+   if ((event.body.toLowerCase() == "পড়তে বয়") || (event.body.toLowerCase() == "পড়তে বসো সবাই") || (event.body.toLowerCase() == "পড়") || (event.body.toLowerCase() == "porta boi")) {
+     return api.sendMessage("Oil your own machine.\nনিজের চরকায় তেল দেও 😌🍁", threadID);
    };
 
   if ((event.body.toLowerCase() == "admin") || (event.body.toLowerCase() == "boter admin")) {
