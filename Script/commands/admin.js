@@ -30,7 +30,7 @@ module.exports.run = async function({ api, event }) {
 ┃ 🏡 𝐀𝐝𝐝𝐫𝐞𝐬𝐬  : Kushtia , Bangladesh 
 ┣━━━━━━━━━━━━━━━━━━━━━┫
 ┃ 🎭 𝐓𝐢𝐤𝐭𝐨𝐤  : ariful_1100
-┃ 🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : 
+┃ 🌐 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 : https://www.facebook.com/share/1Gz9RFBDDC/
 ┣━━━━━━━━━━━━━━━━━━━━━┫
 ┃ 🕒 𝐔𝐩𝐝𝐚𝐭𝐞𝐝 𝐓𝐢𝐦𝐞:  ${time}
 ┗━━━━━━━━━━━━━━━━━━━━━┛
