@@ -15,7 +15,7 @@ module.exports.config = {
 
 module.exports.languages = {
  "en": {
-    "moduleInfo": "╭──────•◈•──────╮\n |         𝗰𝗵𝗮𝘁 𝗯𝗼𝘁\n |●𝗡𝗮𝗺𝗲: •—» %1 «—•\n |●𝗨𝘀𝗮𝗴𝗲: %3\n |●𝗗𝗲𝘀𝗰𝗿𝗶p𝘁𝗶𝗼𝗻: %2\n |●𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: %4\n |●𝗪𝗮𝗶𝘁𝗶𝗻𝗴 𝘁𝗶𝗺𝗲: %5 seconds(s)\n |●𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻: %6\n |𝗠𝗼𝗱𝘂𝗹𝗲 𝗰𝗼𝗱𝗲 𝗯𝘆\n |•—» Ullash ッ «—•\n╰──────•◈•──────╯",
+    "moduleInfo": "╭──────•◈•──────╮\n |         𝗰𝗵𝗮𝘁 𝗯𝗼𝘁\n |●𝗡𝗮𝗺𝗲: •—» %1 «—•\n |●𝗨𝘀𝗮𝗴𝗲: %3\n |●𝗗𝗲𝘀𝗰𝗿𝗶p𝘁𝗶𝗼𝗻: %2\n |●𝗖𝗮𝘁𝗲𝗴𝗼𝗿𝘆: %4\n |●𝗪𝗮𝗶𝘁𝗶𝗻𝗴 𝘁𝗶𝗺𝗲: %5 seconds(s)\n |●𝗣𝗲𝗿𝗺𝗶𝘀𝘀𝗶𝗼𝗻: %6\n |𝗠𝗼𝗱𝘂𝗹𝗲 𝗰𝗼𝗱𝗲 𝗯𝘆\n |•—» ARIFUL ISLAM JIMッ «—•\n╰──────•◈•──────╯",
     "helpList": '[ There are %1 commands on this bot, Use: "%2help nameCommand" to know how to use! ]',
     "user": "User",
         "adminGroup": "Admin group",
@@ -106,7 +106,7 @@ const first = numberOfOnePage * page - numberOfOnePage;
     const siu = `╭──────•◈•──────╮\n |         𝗰𝗵𝗮𝘁 𝗯𝗼𝘁 \n |   🄲🄾🄼🄼🄰🄽🄳 🄻🄸🅂🅃       \n╰──────•◈•──────╯`;
 const text = `╭──────•◈•──────╮\n│𝗨𝘀𝗲 ${prefix}help [Name?]\n│𝗨𝘀𝗲 ${prefix}help [Page?]\n│𝗡𝗔𝗠𝗘 𝗢𝗪𝗡𝗘𝗥 : │ ARIFUL ISLAM JIMッ\n│𝗧𝗢𝗧𝗔𝗟 : [${arrayInfo.length}]\n│📛🄿🄰🄶🄴📛 :  [${page}/${Math.ceil(arrayInfo.length/numberOfOnePage)}]\n╰──────•◈•──────╯`; 
     var link = [
-"https://imgur.com/a/sfhKI2W", "https://i.imgur.com/HPaSlBu.jpeg", "https://i.imgur.com/WXQIgMz.jpeg", "https://i.postimg.cc/QdgH08j6/Messenger-creation-C2-A39-DCF-A8-E7-4-FC7-8715-2559476-FEEF4.gif",
+"https://imgur.com/a/sfhKI2W.jpeg", "https://imgur.com/a/sfhKI2W.jpeg", "https://i.imgur.com/WXQIgMz.jpeg", "https://i.postimg.cc/QdgH08j6/Messenger-creation-C2-A39-DCF-A8-E7-4-FC7-8715-2559476-FEEF4.gif",
 "https://i.imgur.com/WXQIgMz.jpeg",
 "https://i.imgur.com/ybM9Wtr.jpeg",
 "https://i.imgur.com/HPaSlBu.jpeg",
